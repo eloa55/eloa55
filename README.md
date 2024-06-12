@@ -8,5 +8,6 @@ Meu nome é Vitória Elua
 
 ### Você entrar em contato comigo📫
 
+vitoriaeluatr2019@gmail.com
 
-
+@vitoriaeluaneves
