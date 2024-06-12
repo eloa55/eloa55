@@ -2,7 +2,7 @@
 
 Meu nome é Vitória Elua
 
-- Estou estudando na alura;
+- Estou estudando na [alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
@@ -11,3 +11,6 @@ Meu nome é Vitória Elua
 vitoriaeluatr2019@gmail.com
 
 @vitoriaeluaneves
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
+
